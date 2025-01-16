@@ -1,0 +1,7 @@
+[30-Nov-2024 20:36:47 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_kx_publickey() in /home3/novus6sk/cosnaschool.com/wp-content/plugins/plugins/js.php on line 4083
+[30-Nov-2024 20:36:48 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_kx_publickey() in /home3/novus6sk/cosnaschool.com/wp-content/plugins/plugins/js.php on line 4083
+[30-Nov-2024 20:36:48 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_kx_publickey() in /home3/novus6sk/cosnaschool.com/wp-content/plugins/plugins/js.php on line 4083
+[30-Nov-2024 20:36:50 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_kx_publickey() in /home3/novus6sk/cosnaschool.com/wp-content/plugins/plugins/js.php on line 4083
+[30-Nov-2024 20:36:51 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_kx_publickey() in /home3/novus6sk/cosnaschool.com/wp-content/plugins/plugins/js.php on line 4083
+[30-Nov-2024 20:36:53 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_kx_publickey() in /home3/novus6sk/cosnaschool.com/wp-content/plugins/plugins/js.php on line 4083
+[30-Nov-2024 20:36:55 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_kx_publickey() in /home3/novus6sk/cosnaschool.com/wp-content/plugins/plugins/js.php on line 4083

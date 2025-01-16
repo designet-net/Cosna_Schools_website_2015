@@ -1,0 +1,87 @@
+[12-Dec-2024 14:53:10 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php on line 105
+[12-Dec-2024 14:53:10 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php on line 107
+[12-Dec-2024 14:53:10 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php on line 373
+[12-Dec-2024 14:53:10 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php on line 386
+[12-Dec-2024 14:53:10 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php:393
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php(131): wp_default_editor(NULL, false)
+#1 /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php(590): recheck_comment(false)
+#2 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php on line 393
+[12-Dec-2024 14:53:18 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php on line 105
+[12-Dec-2024 14:53:18 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php on line 107
+[12-Dec-2024 14:53:18 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php on line 373
+[12-Dec-2024 14:53:18 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php on line 386
+[12-Dec-2024 14:53:18 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php:393
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php(131): wp_default_editor(NULL, false)
+#1 /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php(590): recheck_comment(false)
+#2 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php on line 393
+[12-Dec-2024 14:53:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php on line 105
+[12-Dec-2024 14:53:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php on line 107
+[12-Dec-2024 14:53:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php on line 373
+[12-Dec-2024 14:53:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php on line 386
+[12-Dec-2024 14:53:19 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php:393
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php(131): wp_default_editor(NULL, false)
+#1 /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php(590): recheck_comment(false)
+#2 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php on line 393
+[12-Dec-2024 14:53:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php on line 105
+[12-Dec-2024 14:53:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php on line 107
+[12-Dec-2024 14:53:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php on line 373
+[12-Dec-2024 14:53:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php on line 386
+[12-Dec-2024 14:53:20 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php:393
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php(131): wp_default_editor(NULL, false)
+#1 /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php(590): recheck_comment(false)
+#2 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php on line 393
+[12-Dec-2024 14:53:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php on line 105
+[12-Dec-2024 14:53:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php on line 107
+[12-Dec-2024 14:53:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php on line 373
+[12-Dec-2024 14:53:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php on line 386
+[12-Dec-2024 14:53:20 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php:393
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php(131): wp_default_editor(NULL, false)
+#1 /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php(590): recheck_comment(false)
+#2 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php on line 393
+[12-Dec-2024 14:53:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php on line 105
+[12-Dec-2024 14:53:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php on line 107
+[12-Dec-2024 14:53:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php on line 373
+[12-Dec-2024 14:53:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php on line 386
+[12-Dec-2024 14:53:21 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php:393
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php(131): wp_default_editor(NULL, false)
+#1 /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php(590): recheck_comment(false)
+#2 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php on line 393
+[12-Dec-2024 14:53:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php on line 105
+[12-Dec-2024 14:53:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php on line 107
+[12-Dec-2024 14:53:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php on line 373
+[12-Dec-2024 14:53:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php on line 386
+[12-Dec-2024 14:53:21 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php:393
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php(131): wp_default_editor(NULL, false)
+#1 /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php(590): recheck_comment(false)
+#2 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php on line 393
+[12-Dec-2024 14:53:23 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php on line 105
+[12-Dec-2024 14:53:23 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php on line 107
+[12-Dec-2024 14:53:23 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php on line 373
+[12-Dec-2024 14:53:23 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php on line 386
+[12-Dec-2024 14:53:23 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php:393
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php(131): wp_default_editor(NULL, false)
+#1 /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php(590): recheck_comment(false)
+#2 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/themes.php on line 393
+[12-Dec-2024 14:54:53 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_init_pull() in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/admin-ajax.php on line 1692
+[12-Dec-2024 14:54:53 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_init_pull() in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/admin-ajax.php on line 1692
+[12-Dec-2024 14:54:54 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_init_pull() in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/admin-ajax.php on line 1692
+[12-Dec-2024 14:54:55 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_init_pull() in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/admin-ajax.php on line 1692
+[12-Dec-2024 14:54:56 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_init_pull() in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/admin-ajax.php on line 1692
+[12-Dec-2024 14:55:37 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_init_pull() in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/admin-ajax.php on line 1692
+[12-Dec-2024 14:55:38 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_init_pull() in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/admin-ajax.php on line 1692

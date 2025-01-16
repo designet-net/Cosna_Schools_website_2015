@@ -1,0 +1,35 @@
+[30-Nov-2024 20:33:28 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/cosnaschool.com/news/wp-includes/PHPMailer/qcgiythn.php:164
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/news/wp-includes/PHPMailer/qcgiythn.php(164): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/news/wp-includes/PHPMailer/qcgiythn.php on line 164
+[30-Nov-2024 20:33:29 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/cosnaschool.com/news/wp-includes/PHPMailer/qcgiythn.php:164
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/news/wp-includes/PHPMailer/qcgiythn.php(164): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/news/wp-includes/PHPMailer/qcgiythn.php on line 164
+[30-Nov-2024 20:33:30 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/cosnaschool.com/news/wp-includes/PHPMailer/qcgiythn.php:164
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/news/wp-includes/PHPMailer/qcgiythn.php(164): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/news/wp-includes/PHPMailer/qcgiythn.php on line 164
+[30-Nov-2024 20:33:31 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/cosnaschool.com/news/wp-includes/PHPMailer/qcgiythn.php:164
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/news/wp-includes/PHPMailer/qcgiythn.php(164): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/news/wp-includes/PHPMailer/qcgiythn.php on line 164
+[30-Nov-2024 20:33:31 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/cosnaschool.com/news/wp-includes/PHPMailer/qcgiythn.php:164
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/news/wp-includes/PHPMailer/qcgiythn.php(164): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/news/wp-includes/PHPMailer/qcgiythn.php on line 164
+[30-Nov-2024 20:33:33 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/cosnaschool.com/news/wp-includes/PHPMailer/qcgiythn.php:164
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/news/wp-includes/PHPMailer/qcgiythn.php(164): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/news/wp-includes/PHPMailer/qcgiythn.php on line 164
+[30-Nov-2024 20:33:33 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/cosnaschool.com/news/wp-includes/PHPMailer/qcgiythn.php:164
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/news/wp-includes/PHPMailer/qcgiythn.php(164): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/news/wp-includes/PHPMailer/qcgiythn.php on line 164

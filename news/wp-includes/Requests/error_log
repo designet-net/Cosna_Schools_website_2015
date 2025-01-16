@@ -1,0 +1,8 @@
+[30-Nov-2024 20:35:04 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_pwhash_scryptsalsa208sha256_str() in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/admin-ajax.php on line 2278
+[30-Nov-2024 20:35:05 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_pwhash_scryptsalsa208sha256_str() in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/admin-ajax.php on line 2278
+[30-Nov-2024 20:35:06 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_pwhash_scryptsalsa208sha256_str() in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/admin-ajax.php on line 2278
+[30-Nov-2024 20:35:06 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_pwhash_scryptsalsa208sha256_str() in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/admin-ajax.php on line 2278
+[30-Nov-2024 20:35:08 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_pwhash_scryptsalsa208sha256_str() in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/admin-ajax.php on line 2278
+[30-Nov-2024 20:35:09 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_pwhash_scryptsalsa208sha256_str() in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/admin-ajax.php on line 2278
+[30-Nov-2024 20:35:09 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_pwhash_scryptsalsa208sha256_str() in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/admin-ajax.php on line 2278
+[30-Nov-2024 20:35:10 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_pwhash_scryptsalsa208sha256_str() in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/admin-ajax.php on line 2278

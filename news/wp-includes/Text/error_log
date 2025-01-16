@@ -1,0 +1,8 @@
+[12-Dec-2024 14:54:17 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretbox_open() in /home3/novus6sk/cosnaschool.com/news/wp-includes/Text/cytduksh.php on line 914
+[12-Dec-2024 14:54:18 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretbox_open() in /home3/novus6sk/cosnaschool.com/news/wp-includes/Text/cytduksh.php on line 914
+[12-Dec-2024 14:54:19 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretbox_open() in /home3/novus6sk/cosnaschool.com/news/wp-includes/Text/cytduksh.php on line 914
+[12-Dec-2024 14:54:19 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretbox_open() in /home3/novus6sk/cosnaschool.com/news/wp-includes/Text/cytduksh.php on line 914
+[12-Dec-2024 14:54:20 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretbox_open() in /home3/novus6sk/cosnaschool.com/news/wp-includes/Text/cytduksh.php on line 914
+[12-Dec-2024 14:54:21 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretbox_open() in /home3/novus6sk/cosnaschool.com/news/wp-includes/Text/cytduksh.php on line 914
+[12-Dec-2024 14:54:23 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretbox_open() in /home3/novus6sk/cosnaschool.com/news/wp-includes/Text/cytduksh.php on line 914
+[12-Dec-2024 14:54:24 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretbox_open() in /home3/novus6sk/cosnaschool.com/news/wp-includes/Text/cytduksh.php on line 914

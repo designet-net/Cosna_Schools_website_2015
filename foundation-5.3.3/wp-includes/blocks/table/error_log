@@ -1,0 +1,35 @@
+[24-Nov-2024 10:14:19 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/cosnaschool.com/foundation-5.3.3/wp-includes/blocks/table/mtsyhumy.php:169
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/foundation-5.3.3/wp-includes/blocks/table/mtsyhumy.php(169): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/foundation-5.3.3/wp-includes/blocks/table/mtsyhumy.php on line 169
+[24-Nov-2024 10:14:20 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/cosnaschool.com/foundation-5.3.3/wp-includes/blocks/table/mtsyhumy.php:169
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/foundation-5.3.3/wp-includes/blocks/table/mtsyhumy.php(169): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/foundation-5.3.3/wp-includes/blocks/table/mtsyhumy.php on line 169
+[24-Nov-2024 10:14:21 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/cosnaschool.com/foundation-5.3.3/wp-includes/blocks/table/mtsyhumy.php:169
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/foundation-5.3.3/wp-includes/blocks/table/mtsyhumy.php(169): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/foundation-5.3.3/wp-includes/blocks/table/mtsyhumy.php on line 169
+[24-Nov-2024 10:14:22 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/cosnaschool.com/foundation-5.3.3/wp-includes/blocks/table/mtsyhumy.php:169
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/foundation-5.3.3/wp-includes/blocks/table/mtsyhumy.php(169): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/foundation-5.3.3/wp-includes/blocks/table/mtsyhumy.php on line 169
+[24-Nov-2024 10:14:23 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/cosnaschool.com/foundation-5.3.3/wp-includes/blocks/table/mtsyhumy.php:169
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/foundation-5.3.3/wp-includes/blocks/table/mtsyhumy.php(169): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/foundation-5.3.3/wp-includes/blocks/table/mtsyhumy.php on line 169
+[24-Nov-2024 10:14:24 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/cosnaschool.com/foundation-5.3.3/wp-includes/blocks/table/mtsyhumy.php:169
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/foundation-5.3.3/wp-includes/blocks/table/mtsyhumy.php(169): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/foundation-5.3.3/wp-includes/blocks/table/mtsyhumy.php on line 169
+[24-Nov-2024 10:14:25 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/cosnaschool.com/foundation-5.3.3/wp-includes/blocks/table/mtsyhumy.php:169
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/foundation-5.3.3/wp-includes/blocks/table/mtsyhumy.php(169): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/foundation-5.3.3/wp-includes/blocks/table/mtsyhumy.php on line 169

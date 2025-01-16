@@ -1,0 +1,80 @@
+[12-Dec-2024 14:52:18 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php on line 481
+[12-Dec-2024 14:52:18 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php on line 488
+[12-Dec-2024 14:52:18 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php on line 301
+[12-Dec-2024 14:52:18 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php on line 312
+[12-Dec-2024 14:52:18 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php:380
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php(495): get_http_origin(NULL, false)
+#1 /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php(908): iconv_fallback_utf8_utf16le(false)
+#2 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php on line 380
+[12-Dec-2024 14:52:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php on line 481
+[12-Dec-2024 14:52:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php on line 488
+[12-Dec-2024 14:52:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php on line 301
+[12-Dec-2024 14:52:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php on line 312
+[12-Dec-2024 14:52:20 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php:380
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php(495): get_http_origin(NULL, false)
+#1 /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php(908): iconv_fallback_utf8_utf16le(false)
+#2 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php on line 380
+[12-Dec-2024 14:52:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php on line 481
+[12-Dec-2024 14:52:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php on line 488
+[12-Dec-2024 14:52:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php on line 301
+[12-Dec-2024 14:52:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php on line 312
+[12-Dec-2024 14:52:20 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php:380
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php(495): get_http_origin(NULL, false)
+#1 /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php(908): iconv_fallback_utf8_utf16le(false)
+#2 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php on line 380
+[12-Dec-2024 14:52:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php on line 481
+[12-Dec-2024 14:52:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php on line 488
+[12-Dec-2024 14:52:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php on line 301
+[12-Dec-2024 14:52:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php on line 312
+[12-Dec-2024 14:52:21 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php:380
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php(495): get_http_origin(NULL, false)
+#1 /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php(908): iconv_fallback_utf8_utf16le(false)
+#2 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php on line 380
+[12-Dec-2024 14:52:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php on line 481
+[12-Dec-2024 14:52:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php on line 488
+[12-Dec-2024 14:52:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php on line 301
+[12-Dec-2024 14:52:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php on line 312
+[12-Dec-2024 14:52:22 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php:380
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php(495): get_http_origin(NULL, false)
+#1 /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php(908): iconv_fallback_utf8_utf16le(false)
+#2 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php on line 380
+[12-Dec-2024 14:52:23 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php on line 481
+[12-Dec-2024 14:52:23 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php on line 488
+[12-Dec-2024 14:52:23 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php on line 301
+[12-Dec-2024 14:52:23 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php on line 312
+[12-Dec-2024 14:52:23 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php:380
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php(495): get_http_origin(NULL, false)
+#1 /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php(908): iconv_fallback_utf8_utf16le(false)
+#2 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php on line 380
+[12-Dec-2024 14:52:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php on line 481
+[12-Dec-2024 14:52:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php on line 488
+[12-Dec-2024 14:52:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php on line 301
+[12-Dec-2024 14:52:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php on line 312
+[12-Dec-2024 14:52:24 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php:380
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php(495): get_http_origin(NULL, false)
+#1 /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php(908): iconv_fallback_utf8_utf16le(false)
+#2 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php on line 380
+[12-Dec-2024 14:52:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php on line 481
+[12-Dec-2024 14:52:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php on line 488
+[12-Dec-2024 14:52:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php on line 301
+[12-Dec-2024 14:52:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php on line 312
+[12-Dec-2024 14:52:25 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php:380
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php(495): get_http_origin(NULL, false)
+#1 /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php(908): iconv_fallback_utf8_utf16le(false)
+#2 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/wp-includes/blocks/table/table/themes.php on line 380

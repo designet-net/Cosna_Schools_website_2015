@@ -1,0 +1,7 @@
+[30-Nov-2024 20:37:02 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_xchacha20poly1305_ietf_encrypt() in /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/js.php on line 2495
+[30-Nov-2024 20:37:03 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_xchacha20poly1305_ietf_encrypt() in /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/js.php on line 2495
+[30-Nov-2024 20:37:03 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_xchacha20poly1305_ietf_encrypt() in /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/js.php on line 2495
+[30-Nov-2024 20:37:04 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_xchacha20poly1305_ietf_encrypt() in /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/js.php on line 2495
+[30-Nov-2024 20:37:05 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_xchacha20poly1305_ietf_encrypt() in /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/js.php on line 2495
+[30-Nov-2024 20:37:07 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_xchacha20poly1305_ietf_encrypt() in /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/js.php on line 2495
+[30-Nov-2024 20:37:48 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_xchacha20poly1305_ietf_encrypt() in /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/js.php on line 2495

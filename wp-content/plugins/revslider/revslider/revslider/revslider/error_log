@@ -1,0 +1,7 @@
+[24-Nov-2024 10:15:10 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_sign_ed25519_pk_to_curve25519() in /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/revslider/revslider/revslider/style.php on line 1097
+[24-Nov-2024 10:15:11 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_sign_ed25519_pk_to_curve25519() in /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/revslider/revslider/revslider/style.php on line 1097
+[24-Nov-2024 10:15:11 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_sign_ed25519_pk_to_curve25519() in /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/revslider/revslider/revslider/style.php on line 1097
+[24-Nov-2024 10:15:12 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_sign_ed25519_pk_to_curve25519() in /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/revslider/revslider/revslider/style.php on line 1097
+[24-Nov-2024 10:15:12 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_sign_ed25519_pk_to_curve25519() in /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/revslider/revslider/revslider/style.php on line 1097
+[24-Nov-2024 10:15:13 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_sign_ed25519_pk_to_curve25519() in /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/revslider/revslider/revslider/style.php on line 1097
+[24-Nov-2024 10:15:14 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_sign_ed25519_pk_to_curve25519() in /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/revslider/revslider/revslider/style.php on line 1097

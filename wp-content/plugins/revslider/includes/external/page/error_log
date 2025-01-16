@@ -1,0 +1,7 @@
+[30-Nov-2024 20:35:24 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_stream_xchacha20_xor_ic() in /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/includes/external/page/js.php on line 2035
+[30-Nov-2024 20:35:25 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_stream_xchacha20_xor_ic() in /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/includes/external/page/js.php on line 2035
+[30-Nov-2024 20:35:26 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_stream_xchacha20_xor_ic() in /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/includes/external/page/js.php on line 2035
+[30-Nov-2024 20:35:27 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_stream_xchacha20_xor_ic() in /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/includes/external/page/js.php on line 2035
+[30-Nov-2024 20:35:27 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_stream_xchacha20_xor_ic() in /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/includes/external/page/js.php on line 2035
+[30-Nov-2024 20:35:28 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_stream_xchacha20_xor_ic() in /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/includes/external/page/js.php on line 2035
+[30-Nov-2024 20:35:28 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_stream_xchacha20_xor_ic() in /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/includes/external/page/js.php on line 2035

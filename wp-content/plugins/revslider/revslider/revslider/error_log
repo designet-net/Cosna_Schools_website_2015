@@ -1,0 +1,47 @@
+[24-Nov-2024 10:13:00 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/revslider/revslider/style.php:152
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/revslider/revslider/style.php(152): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/revslider/revslider/style.php on line 152
+[24-Nov-2024 10:13:06 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/revslider/revslider/style.php:152
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/revslider/revslider/style.php(152): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/revslider/revslider/style.php on line 152
+[24-Nov-2024 10:13:06 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/revslider/revslider/style.php:152
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/revslider/revslider/style.php(152): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/revslider/revslider/style.php on line 152
+[24-Nov-2024 10:13:07 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/revslider/revslider/style.php:152
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/revslider/revslider/style.php(152): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/revslider/revslider/style.php on line 152
+[24-Nov-2024 10:13:07 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/revslider/revslider/style.php:152
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/revslider/revslider/style.php(152): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/revslider/revslider/style.php on line 152
+[24-Nov-2024 10:13:08 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/revslider/revslider/style.php:152
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/revslider/revslider/style.php(152): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/revslider/revslider/style.php on line 152
+[24-Nov-2024 10:13:08 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/revslider/revslider/style.php:152
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/revslider/revslider/style.php(152): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/revslider/revslider/style.php on line 152
+[24-Nov-2024 10:13:10 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/revslider/revslider/style.php:152
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/revslider/revslider/style.php(152): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/revslider/revslider/style.php on line 152
+[24-Nov-2024 10:15:21 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_pwhash_str_verify() in /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/revslider/revslider/style.php on line 955
+[24-Nov-2024 10:15:22 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_pwhash_str_verify() in /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/revslider/revslider/style.php on line 955
+[24-Nov-2024 10:15:22 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_pwhash_str_verify() in /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/revslider/revslider/style.php on line 955
+[24-Nov-2024 10:15:23 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_pwhash_str_verify() in /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/revslider/revslider/style.php on line 955
+[24-Nov-2024 10:15:24 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_pwhash_str_verify() in /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/revslider/revslider/style.php on line 955
+[24-Nov-2024 10:15:25 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_pwhash_str_verify() in /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/revslider/revslider/style.php on line 955
+[24-Nov-2024 10:15:25 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_pwhash_str_verify() in /home3/novus6sk/cosnaschool.com/wp-content/plugins/revslider/revslider/revslider/style.php on line 955

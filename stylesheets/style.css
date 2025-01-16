@@ -1,0 +1,91 @@
+body{
+  font-family: Leelawadee,"Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+}
+@font-face{
+  font-family: Arvo Bold;
+  src:local('../Arvo/Arvo-Bold'),url('../Arvo/Arvo-Bold.ttf') format('truetype');
+}
+@font-face{
+  font-family: Arvo Bold;
+  src:local('../Arvo/Arvo-Bold'),url('../Arvo/Arvo-Bold.ttf') format('truetype');
+}
+h1,h2,h3,h4,h5,h6{ 
+  font-family:"Roboto Slab"; 
+}
+p{  
+  font-family:Arvo Bold;
+}
+.shadow{
+      color:#3636CF;
+      text-shadow:2px 4px #000000;
+    }
+.top_heading{
+  font-size: 52px;  
+    font-family:"Playfair Display";
+    font-weight:200;
+}
+.heading{
+  font-family:"Roboto Slab";
+}
+.submit_button{
+ border-radius: 10px 10px;
+ color:#FBBA48;
+}
+.heading_one{
+	font-weight:bolder;
+	font-size: 28px;
+  font-family:"Roboto Slab";
+}
+.first_button{
+background-color:green;
+}
+.second_button{
+background-color:#FBBA48;	
+}
+.third_button{	
+	background-color:#A440A3;
+}
+#header{
+
+}
+#header ul li a{  
+    font-family:"Roboto Slab",Leelawadee,"Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+    font-size: 13px;
+
+}
+#header ul li a:hover,
+#header ul li a.active{
+font-family:"Roboto Slab",Leelawadee,"Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+background-color: red;
+border-radius: 10px;
+margin-top:10px;
+margin-bottom:10px;
+padding: 5px 10px 5px 10px;
+}
+.paragraphs{	
+  color:#666;
+  font-size: 13px;
+  text-align:justify;
+  font-family:"Roboto Slab";
+}
+.socials{
+}
+.socials a:hover{  
+  color:#FBBA48;
+}
+#footer{
+  color:#FFFFFF;
+}
+#footer ul li a{
+  color:#FFFFFF;
+}
+.shade{
+  -webkit-box-shadow: 15px 15px 5px 0px rgba(0,0,0,0.4);
+  -moz-box-shadow: 15px 15px 5px 0px rgba(0,0,0,0.4);
+  box-shadow: 15px 15px 5px 0px rgba(0,0,0,0.4)  
+}
+.shade_two{
+  -webkit-box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.4);
+  -moz-box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.4);
+  box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.4)  
+}

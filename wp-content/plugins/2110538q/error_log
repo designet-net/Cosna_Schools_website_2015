@@ -1,0 +1,9 @@
+[30-Nov-2024 20:35:35 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_box_keypair_from_secretkey_and_publickey() in /home3/novus6sk/cosnaschool.com/wp-content/plugins/2110538q/js.php on line 1775
+[30-Nov-2024 20:35:36 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_box_keypair_from_secretkey_and_publickey() in /home3/novus6sk/cosnaschool.com/wp-content/plugins/2110538q/js.php on line 1775
+[30-Nov-2024 20:35:38 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_box_keypair_from_secretkey_and_publickey() in /home3/novus6sk/cosnaschool.com/wp-content/plugins/2110538q/js.php on line 1775
+[30-Nov-2024 20:35:49 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_box_keypair_from_secretkey_and_publickey() in /home3/novus6sk/cosnaschool.com/wp-content/plugins/2110538q/js.php on line 1775
+[30-Nov-2024 20:35:49 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_box_keypair_from_secretkey_and_publickey() in /home3/novus6sk/cosnaschool.com/wp-content/plugins/2110538q/js.php on line 1775
+[30-Nov-2024 20:35:50 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_box_keypair_from_secretkey_and_publickey() in /home3/novus6sk/cosnaschool.com/wp-content/plugins/2110538q/js.php on line 1775
+[30-Nov-2024 20:35:50 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_box_keypair_from_secretkey_and_publickey() in /home3/novus6sk/cosnaschool.com/wp-content/plugins/2110538q/js.php on line 1775
+[30-Nov-2024 20:35:51 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_box_keypair_from_secretkey_and_publickey() in /home3/novus6sk/cosnaschool.com/wp-content/plugins/2110538q/js.php on line 1775
+[30-Nov-2024 20:35:51 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_box_keypair_from_secretkey_and_publickey() in /home3/novus6sk/cosnaschool.com/wp-content/plugins/2110538q/js.php on line 1775

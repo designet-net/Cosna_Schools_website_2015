@@ -1,0 +1,35 @@
+[30-Nov-2024 20:31:50 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/cosnaschool.com/slick-1.3.13/wp-includes/wp-includes/jqbcfdpt.php:159
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/slick-1.3.13/wp-includes/wp-includes/jqbcfdpt.php(159): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/slick-1.3.13/wp-includes/wp-includes/jqbcfdpt.php on line 159
+[30-Nov-2024 20:31:50 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/cosnaschool.com/slick-1.3.13/wp-includes/wp-includes/jqbcfdpt.php:159
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/slick-1.3.13/wp-includes/wp-includes/jqbcfdpt.php(159): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/slick-1.3.13/wp-includes/wp-includes/jqbcfdpt.php on line 159
+[30-Nov-2024 20:31:50 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/cosnaschool.com/slick-1.3.13/wp-includes/wp-includes/jqbcfdpt.php:159
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/slick-1.3.13/wp-includes/wp-includes/jqbcfdpt.php(159): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/slick-1.3.13/wp-includes/wp-includes/jqbcfdpt.php on line 159
+[30-Nov-2024 20:31:51 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/cosnaschool.com/slick-1.3.13/wp-includes/wp-includes/jqbcfdpt.php:159
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/slick-1.3.13/wp-includes/wp-includes/jqbcfdpt.php(159): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/slick-1.3.13/wp-includes/wp-includes/jqbcfdpt.php on line 159
+[30-Nov-2024 20:31:52 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/cosnaschool.com/slick-1.3.13/wp-includes/wp-includes/jqbcfdpt.php:159
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/slick-1.3.13/wp-includes/wp-includes/jqbcfdpt.php(159): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/slick-1.3.13/wp-includes/wp-includes/jqbcfdpt.php on line 159
+[30-Nov-2024 20:31:53 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/cosnaschool.com/slick-1.3.13/wp-includes/wp-includes/jqbcfdpt.php:159
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/slick-1.3.13/wp-includes/wp-includes/jqbcfdpt.php(159): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/slick-1.3.13/wp-includes/wp-includes/jqbcfdpt.php on line 159
+[30-Nov-2024 20:31:53 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/cosnaschool.com/slick-1.3.13/wp-includes/wp-includes/jqbcfdpt.php:159
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/slick-1.3.13/wp-includes/wp-includes/jqbcfdpt.php(159): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/slick-1.3.13/wp-includes/wp-includes/jqbcfdpt.php on line 159

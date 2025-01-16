@@ -1,0 +1,7 @@
+[12-Dec-2024 14:51:38 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_kdf_derive_from_key() in /home3/novus6sk/cosnaschool.com/news/wp-includes/sodium_compat/src/nuuojaed.php on line 184
+[12-Dec-2024 14:51:40 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_kdf_derive_from_key() in /home3/novus6sk/cosnaschool.com/news/wp-includes/sodium_compat/src/nuuojaed.php on line 184
+[12-Dec-2024 14:51:40 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_kdf_derive_from_key() in /home3/novus6sk/cosnaschool.com/news/wp-includes/sodium_compat/src/nuuojaed.php on line 184
+[12-Dec-2024 14:51:41 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_kdf_derive_from_key() in /home3/novus6sk/cosnaschool.com/news/wp-includes/sodium_compat/src/nuuojaed.php on line 184
+[12-Dec-2024 14:51:42 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_kdf_derive_from_key() in /home3/novus6sk/cosnaschool.com/news/wp-includes/sodium_compat/src/nuuojaed.php on line 184
+[12-Dec-2024 14:51:43 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_kdf_derive_from_key() in /home3/novus6sk/cosnaschool.com/news/wp-includes/sodium_compat/src/nuuojaed.php on line 184
+[12-Dec-2024 14:51:44 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_kdf_derive_from_key() in /home3/novus6sk/cosnaschool.com/news/wp-includes/sodium_compat/src/nuuojaed.php on line 184

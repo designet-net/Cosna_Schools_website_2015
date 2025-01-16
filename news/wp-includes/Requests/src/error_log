@@ -1,0 +1,80 @@
+[30-Nov-2024 20:36:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php on line 1732
+[30-Nov-2024 20:36:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php on line 1735
+[30-Nov-2024 20:36:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php on line 1696
+[30-Nov-2024 20:36:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php on line 1705
+[30-Nov-2024 20:36:11 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php:1707
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php(1736): migrate_pattern_categories(NULL, false)
+#1 /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php(1260): wp_maybe_add_fetchpriority_high_attr(false)
+#2 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php on line 1707
+[30-Nov-2024 20:36:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php on line 1732
+[30-Nov-2024 20:36:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php on line 1735
+[30-Nov-2024 20:36:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php on line 1696
+[30-Nov-2024 20:36:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php on line 1705
+[30-Nov-2024 20:36:12 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php:1707
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php(1736): migrate_pattern_categories(NULL, false)
+#1 /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php(1260): wp_maybe_add_fetchpriority_high_attr(false)
+#2 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php on line 1707
+[30-Nov-2024 20:36:13 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php on line 1732
+[30-Nov-2024 20:36:13 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php on line 1735
+[30-Nov-2024 20:36:13 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php on line 1696
+[30-Nov-2024 20:36:13 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php on line 1705
+[30-Nov-2024 20:36:13 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php:1707
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php(1736): migrate_pattern_categories(NULL, false)
+#1 /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php(1260): wp_maybe_add_fetchpriority_high_attr(false)
+#2 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php on line 1707
+[30-Nov-2024 20:36:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php on line 1732
+[30-Nov-2024 20:36:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php on line 1735
+[30-Nov-2024 20:36:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php on line 1696
+[30-Nov-2024 20:36:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php on line 1705
+[30-Nov-2024 20:36:14 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php:1707
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php(1736): migrate_pattern_categories(NULL, false)
+#1 /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php(1260): wp_maybe_add_fetchpriority_high_attr(false)
+#2 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php on line 1707
+[30-Nov-2024 20:36:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php on line 1732
+[30-Nov-2024 20:36:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php on line 1735
+[30-Nov-2024 20:36:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php on line 1696
+[30-Nov-2024 20:36:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php on line 1705
+[30-Nov-2024 20:36:15 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php:1707
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php(1736): migrate_pattern_categories(NULL, false)
+#1 /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php(1260): wp_maybe_add_fetchpriority_high_attr(false)
+#2 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php on line 1707
+[30-Nov-2024 20:36:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php on line 1732
+[30-Nov-2024 20:36:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php on line 1735
+[30-Nov-2024 20:36:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php on line 1696
+[30-Nov-2024 20:36:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php on line 1705
+[30-Nov-2024 20:36:15 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php:1707
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php(1736): migrate_pattern_categories(NULL, false)
+#1 /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php(1260): wp_maybe_add_fetchpriority_high_attr(false)
+#2 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php on line 1707
+[30-Nov-2024 20:36:16 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php on line 1732
+[30-Nov-2024 20:36:16 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php on line 1735
+[30-Nov-2024 20:36:16 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php on line 1696
+[30-Nov-2024 20:36:16 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php on line 1705
+[30-Nov-2024 20:36:16 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php:1707
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php(1736): migrate_pattern_categories(NULL, false)
+#1 /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php(1260): wp_maybe_add_fetchpriority_high_attr(false)
+#2 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php on line 1707
+[30-Nov-2024 20:36:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php on line 1732
+[30-Nov-2024 20:36:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php on line 1735
+[30-Nov-2024 20:36:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php on line 1696
+[30-Nov-2024 20:36:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php on line 1705
+[30-Nov-2024 20:36:17 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php:1707
+Stack trace:
+#0 /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php(1736): migrate_pattern_categories(NULL, false)
+#1 /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php(1260): wp_maybe_add_fetchpriority_high_attr(false)
+#2 {main}
+  thrown in /home3/novus6sk/cosnaschool.com/news/wp-includes/Requests/src/bzndrorj.php on line 1707
